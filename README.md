@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shehad-404
-- 👀 I’m interested in Web Devloping, Apps Devloping , Machine Learing & Artificial Inteligence.
+- 👀 I’m interested in Web Devloping, Apps Devloping, Cyber Security, Machine Learing(ML) & Artificial Inteligence(AI).
 - 🌱 I’m currently learning App Developing.
 - 💞️ I’m looking to collaborate on web project.
 - 📫 How to reach me  👉
